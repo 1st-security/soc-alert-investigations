@@ -57,14 +57,6 @@ Complete write-up using:
 - Evidence
 - Analyst Comment
 
-### 3. Portfolio Case Version
-A cleaner public-facing version focused on:
-- summary
-- evidence
-- analysis
-- verdict
-- response
-- skills demonstrated
 
 
 
