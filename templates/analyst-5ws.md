@@ -1,3 +1,5 @@
 # Analyst 5Ws Template
 
 At (when), user (who) on host (where) was observed (what happened). This activity involved (what the logs directly show) and led to (the immediate result seen in logs). This behavior is suspicious because (why it matters). This alert is assessed as a (True Positive / False Positive).
+
+**Feel free to change it as it needs**
